@@ -1,4 +1,4 @@
-# PyTorch Udacity Scholarship Solutions
+# PyTorch Udacity Scholarship Solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Spurryag/PyTorch-Scholarship-Programme-Solutions/master)
 
 This repo contains my solutions to the problems provided in the PyTorch Scholarship Programme focused on Deep Learning.
 
